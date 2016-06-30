@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>org.springframework.cloud</groupId>
 	<artifactId>spring-cloud-starter-parent</artifactId>
-	<version>Brixton.BUILD-SNAPSHOT</version>
+	<version>Camden.BUILD-SNAPSHOT</version>
 	<name>spring-cloud-starter-parent</name>
 	<description>Spring Cloud Starter Parent</description>
 	<packaging>pom</packaging>
